@@ -34,7 +34,7 @@
 
 - **Evaluating Lifecycle Interactions in AI Agents across Memory, Approval, Execution, and Recovery**  
   G Zhu, X Chen, Z Wang, C Wang  
-  [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=W91tp8YAAAAJ&citation_for_view=W91tp8YAAAAJ:UeHWp8X0CEIC)
+  [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=W91tp8YAAAAJ&citation_for_view=W91tp8YAAAAJ:UeHWp8X0CEIC) | [SSRN 7612738](https://ssrn.com/abstract=7612738)
 
 - **Incremental Repair of Agent Memory and Plans after Business Evidence Revisions**  
   G Zhu, Z Wang, X Chen, C Wang  
