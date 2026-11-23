@@ -2,7 +2,7 @@
 
 Research preprints by **Xiaobo Chen** (University of Massachusetts Amherst) on reliable and secure LLM agents and LLMs for software engineering. All papers are on arXiv; most experiments are preregistered.
 
-[Google Scholar](https://scholar.google.com/citations?user=W91tp8YAAAAJ&hl=en) · [Personal page](https://xiaobo-coder.github.io/research-papers/) · [AI4SE Atlas](https://xiaobo-coder.github.io/AI4SE-Atlas/) · [GitHub](https://github.com/xiaobo-coder)
+[Google Scholar](https://scholar.google.com/citations?user=W91tp8YAAAAJ&hl=en) · [AI4SE Atlas](https://xiaobo-coder.github.io/AI4SE-Atlas/) · [GitHub](https://github.com/xiaobo-coder)
 
 **Last updated:** 2026-11-23
 
